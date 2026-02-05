@@ -1,0 +1,72 @@
+{
+  "id": "9a1f6a20-1936-40fd-a4c3-44f99b6902c9",
+  "name": "Test",
+  "storyboards": [
+    {
+      "id": "0248f6d6-0e8c-458e-a56c-f3d76930bcdb",
+      "type": "APPLICATION",
+      "route": "/",
+      "width": 1512,
+      "height": 982,
+      "x": 0,
+      "y": 0,
+      "zIndex": 0
+    },
+    {
+      "id": "42f0a33b-7018-45ef-b6fa-fe27a9f904c5",
+      "name": "Storyboard1",
+      "type": "COMPONENT",
+      "width": 848,
+      "height": 656,
+      "x": 1360.3312619400017,
+      "y": -1257.1997227207603,
+      "zIndex": 10,
+      "importPath": "./Storyboard1-42f0a33b.tsx"
+    },
+    {
+      "id": "2e3a0ecc-0401-4c1c-9e89-64a61f767687",
+      "name": "Storyboard3",
+      "type": "COMPONENT",
+      "width": 721,
+      "height": 414,
+      "x": 388.546753571075,
+      "y": -1127.542034872055,
+      "zIndex": 30,
+      "importPath": "./Storyboard3-2e3a0ecc.tsx"
+    },
+    {
+      "id": "25e08d54-fc19-4806-9029-fec584f4c3d9",
+      "name": "Storyboard5",
+      "type": "COMPONENT",
+      "width": 848,
+      "height": 656,
+      "x": -1731.4474255470045,
+      "y": -1235.1617299062377,
+      "zIndex": 50,
+      "importPath": "./Storyboard5-25e08d54.tsx"
+    },
+    {
+      "id": "61ccb60c-17cd-46ab-a53e-f5dd831da6ed",
+      "name": "Storyboard6",
+      "type": "COMPONENT",
+      "width": 848,
+      "height": 656,
+      "x": -611.0885140527776,
+      "y": -1227.5019062032143,
+      "zIndex": 60,
+      "importPath": "./Storyboard6-61ccb60c.tsx"
+    },
+    {
+      "id": "9d137143-924f-499f-9b3c-5eb178c28aea",
+      "name": "Storyboard7",
+      "type": "COMPONENT",
+      "width": 848,
+      "height": 656,
+      "x": 2509.3061584390866,
+      "y": -1235.945763128036,
+      "zIndex": 70,
+      "importPath": "./Storyboard7-9d137143.tsx"
+    }
+  ],
+  "config_version": "1.0.0"
+}
